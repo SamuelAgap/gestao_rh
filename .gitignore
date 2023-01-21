@@ -2,4 +2,4 @@
 *.sqlite3
 venv
 passo a passo.txt
-
+*.pyc
