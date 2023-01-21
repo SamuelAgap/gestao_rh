@@ -3,3 +3,4 @@
 venv
 passo a passo.txt
 *.pyc
+gestao_rh/__pycache__/
