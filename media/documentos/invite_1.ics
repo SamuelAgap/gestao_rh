@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:America/Sao_Paulo
+X-LIC-LOCATION:America/Sao_Paulo
+BEGIN:STANDARD
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+TZNAME:-03
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20230120T133000
+DTEND;TZID=America/Sao_Paulo:20230120T140000
+DTSTAMP:20230120T030139Z
+ORGANIZER;CN=vamosconversar@sintatica.com:mailto:vamosconversar@sintatica.c
+ om
+UID:ofs0shplgcdbcf2q3f6rh124co@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=vamosconversar@sintatica.com;X-NUM-GUESTS=0:mailto:vamosconversar@sinta
+ tica.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=samuelagap3@gmail.com;X-NUM-GUESTS=0:mailto:samuelagap3@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/mtw-axjj-oun
+X-MICROSOFT-CDO-OWNERAPPTID:-877009788
+CREATED:20230120T030137Z
+DESCRIPTION:Processo seletivo - Estágio Sintática | Bate-papo\n\nProcesso s
+ eletivo - Estágio Sintática\n\n\nTempo estimado da conversa: 30 minutos\n\n
+ \nRecomendações:\n\n- Acesse a sala virtual com 5 minutos de antecedência\;
+ \n\n- Teste câmera e microfone antes de iniciar a reunião\;\n\n- Evite usar
+  óculos de sol\, boné e roupas de banho durante a entrevista.\n\n- Procure 
+ um local silencioso e com boa iluminação.\n\n\nLocal: Esta é uma conferênci
+ a online via Google Meet.\nVocê pode participar desta reunião pelo seu comp
+ utador\, tablet ou smartphone.\nhttps://calendly.com/events/048e4305-50c5-4
+ 477-bd56-80605ad16e6d/google_meet\n\nPrecisa efetuar alterações nesse event
+ o?\nCancelar: https://calendly.com/cancellations/1cde1699-d722-4289-bf2f-a9
+ fbe78099d8\nReagendar: https://calendly.com/reschedulings/1cde1699-d722-428
+ 9-bf2f-a9fbe78099d8\n\nDesenvolvido por Calendly.com\n\n\n-::~:~::~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nEnt
+ rar com o Google Meet: https://meet.google.com/mtw-axjj-oun\nOu disque: (BR
+ ) +55 21 4560-7389 PIN: 646321575#\nMais números de telefone: https://tel.m
+ eet/mtw-axjj-oun?pin=1833841324639&hs=7\n\nSaiba mais sobre o Meet em: http
+ s://support.google.com/a/users/answer/9282720\n\nNão edite esta seção.\n-::
+ ~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~::~:~::-
+LAST-MODIFIED:20230120T030137Z
+LOCATION:Google Meet (instruções na descrição)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Samuel Ágap da Silva Santos e Sintática AI
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
